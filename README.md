@@ -17,6 +17,8 @@ npm run dev
 
 This will start the frontend development server.
 
+### Our Website link: http://20.191.66.216:5173/
+
 ---
 
 ## 📂 2. Repository Structure
@@ -42,6 +44,18 @@ Our solution ensures complete *integrity and authenticity* of event tickets by *
 - 🎟️ *User Interface:* Intuitive event listing, ticket purchase, and resale interface.
 - 🔗 *Wallet Integration:* Integration with *Petra Wallet* for authentication and transactions.
 - ⛓️ *Blockchain Interaction:* Uses *Aptos SDK* and *Move contract APIs* to interact with the blockchain.
+
+
+### 🔑 *Admin Panel (Movie Management)*
+
+🔹 *Functionality:*
+- 🎬 *Create Movies:* Admins can create new movie listings for ticket sales.
+
+- 📝 *Manage Events:* Modify event details like title, description, pricing, and availability.
+
+- 🎟 *Ticket Configuration:* Set limits on ticket quantities and pricing controls.
+
+- 📊 *View Sales Data:* Track ticket sales and revenue generated from events.
 
 ### 🔗 *Smart Contracts (Move on Aptos)*
 🔹 *Responsibilities:*
