@@ -1,0 +1,27 @@
+[package]
+name = "ticketPayment"
+version = "1.0.0"
+authors = []
+
+[addresses]
+ticket="0x20650f016e8cf109b197528a28f4b2f3f574008fe69b24c3e2b75bd1b8a8aecd"
+std = "0x1"
+aptos_std = "0x1"
+aptos_framework = "0x1"
+aptos_token_objects = "0x4"
+
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "main"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dependencies.AptosTokenObjects]
+git = 'https://github.com/aptos-labs/aptos-core.git'
+rev='main'
+subdir = 'aptos-move/framework/aptos-token-objects'
+
+
+[dev-dependencies]
