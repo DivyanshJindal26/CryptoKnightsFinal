@@ -26,7 +26,7 @@ npm run dev
 This will start the frontend development server.
 
 ### Youtube demonstration video : https://youtu.be/URwhuox4pbQ
-### Our Website link deployed live : http://20.191.66.216:5173/ (Please note that this website is hosted on my person Azure VM, and is 100% safe.)
+### Our Website link deployed live : https://cryptoknights.vercel.app/
 
 #### If you face any issues with the live deployed website please localhost the website please.....
 
